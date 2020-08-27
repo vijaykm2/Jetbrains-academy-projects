@@ -103,7 +103,7 @@ Switching on the camera in the rabbit habitat...
        / |   ,-~ /
       Y :|  //  /
       | jj /( .^
-      >-"~"-v"
+      >-"~"-v"mainmain
      /       Y
     jo  o    |
    ( ~T~     j
@@ -131,4 +131,3 @@ while True:
     iput = int(iput)
     if iput >= 0 and iput < len(animals):
         print(animals[iput])
-
